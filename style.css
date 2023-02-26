@@ -104,6 +104,15 @@ header {
   display: inline-block;
 }
 
+button:hover {
+  background: #ffffff;
+}
+
+button:active {
+  background: #264fec;
+  color: #ffffff;
+}
+
 footer {
   background: #ffffff;
   margin-top: 142px;
