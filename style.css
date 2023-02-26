@@ -103,3 +103,26 @@ header {
   height: 48px;
   display: inline-block;
 }
+
+footer {
+  background: #ffffff;
+  margin-top: 142px;
+  padding: 20px 0;
+}
+
+.container-footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.logo-footer-boticario {
+  padding-right: 26px;
+}
+
+.texto-icones {
+  display: flex;
+}
+
+.redes-sociais {
+  padding-left: 58px;
+}
